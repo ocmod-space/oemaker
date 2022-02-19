@@ -1,8 +1,2 @@
-# Ignored
-inc/
-src/
-config.php
-hideg.pwd
-
-# Allowed
-!zip
+!src
+zip

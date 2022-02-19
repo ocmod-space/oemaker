@@ -1,5 +1,2 @@
-# Ignored
-doc/*.bb
-pic
-src
+!src
 zip
