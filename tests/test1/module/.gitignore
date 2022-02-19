@@ -1,0 +1,5 @@
+# Ignored
+doc/*.bb
+pic
+src
+zip
