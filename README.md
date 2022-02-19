@@ -5,4 +5,4 @@ A simple tool to pack source files of an OpenCart extension and their addons int
 
 The tool also can create an encrypted archive of source files. This feature is not yet available to the public (requires special tools) and may be ignored.
 
-See tests - just run php oemaker.php and read the help.
+See tests - just run `$ php oemaker.php` and read the help.
